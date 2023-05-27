@@ -2,7 +2,7 @@
 
 namespace Ciudadano_Sano.Models
 {
-    public class Usuario
+    public class Usuario 
     {
         public int Id { get; set; }
 
